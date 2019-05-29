@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    background: #575e6b;    
+}
+
+.calendar{
+    margin: 5% auto;
+    width: 490px;   
+    border: 3px solid #becded;
+    background:#e8edf3;
+}
+
+h1{
+text-align: center;
+}
+
+.day{
+    float: left;
+    width: 70px;
+    padding: 5px 0;
+    text-align: center;
+}
+
+.other{
+    color: #b8acba;
+}
+
+.name{
+    color:#c04b4b;
+    font-weight: bold;
+}
+
+.current{
+    background: #c04b4b;
+    color: #fff;
+}
+
+.clean{
+    clear: both;
+}
